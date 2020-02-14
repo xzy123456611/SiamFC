@@ -25,8 +25,9 @@
 | ---------------------------------------------  | --------------- |
 | SiamFC(trained from scratch)      		 | 0.5xx           |
 
-```
+```bash
 ## Reference
 Bertinetto, Luca and Valmadre, Jack and Henriques, Joo F and Vedaldi, Andrea and Torr, Philip H S
 		Fully-Convolutional Siamese Networks for Object Tracking
 		In ECCV 2016 workshops
+```
